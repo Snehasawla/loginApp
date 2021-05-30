@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use(express.static('public'));
 
-mongoose.connect('mongodb+srv://code123:code123@cluster0.uicvz.mongodb.net/practice1', { useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://code123:<password>@cluster0.uicvz.mongodb.net/databaseName', { useNewUrlParser: true, useUnifiedTopology: true});
 
 const userschema = {
     name: String,
