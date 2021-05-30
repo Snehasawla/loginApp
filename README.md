@@ -14,7 +14,7 @@ This Is Very Simple Backend-Project for Beginners.
 Take a look at the view of Registeration Page. It redirect to home Registration page after registration and add data added to mongodb database.
 
 
-![Picture added in background](https://raw.githubusercontent.com/Snehasawla/loginApp/master/public/assets/pic.png)
+![Picture added in background](https://raw.githubusercontent.com/Snehasawla/loginApp/master/public/assets/register.png)
 
 
  
