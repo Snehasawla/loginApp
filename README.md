@@ -1,6 +1,9 @@
 # Register Page 
 ### Node, Express, Mongoose and MongoDB.
 
+### Feel Free to Clone.
+  ##### Change mongoose.connect('url') => change database name and password according to your database in mongodb.
+
 This Is Very Simple Backend-Project for Beginners.
 
 ### Learning List:
